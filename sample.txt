@@ -1,0 +1,220 @@
+<p>Summer Collection New Modern Design</p>
+            <div class="pro-container">
+            <div class="pro">
+                <img src="HP/HP%20Spectre%20x360%202-in-1%20Laptop%20OLED%20Touch%2013.5-ef2034TU.avif" alt="" width="92%">
+                <div class="des">
+                    <p>12th Gen Intel® Evo™ Powered by Core™ i7 Processor,<br>
+                       Windows 11 Home,<br>
+                       OLED Intel® Iris® Xᵉ Graphics,<br>
+                       Touch, 5MP IRCam, TUV eyesafe 100% DCI-P3</p>
+                    <h4>Included:</h4>
+                    <p>
+                        In-built Alexa, <br>
+                        Zenvo Pen Nightfall Black wCable worth ₹3,999</p>
+                    <hr style="width:50%;text-align:left;margin-left:0;margin-bottom:10px;margin-top: 10px;">
+                    <h3>Click below to Explore <br> HP Products.</h3>
+                    <a href="hp.html"><i class="fa-solid fa-up-right-from-square"></i></a>
+                    </div>
+                    <div class="star">
+                        <span>HP</span>
+                        <h5>Spectre OLED Touch 13.5 inch </h5>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <h4>₹132,999</h4>
+                    </div>
+            </div>
+                
+            <div class="pro">
+                <img src="BlueAir/Classic%20480i.webp" alt="" width="70%">
+                <div class="des">
+                    <p> Alexa compatible,<br>
+                        Filter Replacement Indicator,<br>
+                        ON/OFF Timer,<br>
+                        4.8 air changes an hour,<br>
+                        Integrated Air Sensors,<br>
+                        Energy Consumption: 15-90 Watts,<br>
+                        Sound Level: 32-62 dB(A),<br>
+                        Air Outlet & Inlet: Side,<br>
+                        Recommended Room Size: 40m<sup>2</sup><br>
+                        </p>
+                    <hr style="width:50%;text-align:left;margin-left:0;margin-bottom:10px;margin-top: 10px;">
+                    <h3>Click below to Explore <br> Blueair Products.</h3>
+                    <a href="blueair.html"><i class="fa-solid fa-up-right-from-square"></i></a>
+                    </div>
+                    <div class="star">
+                        <span>Blueair</span>
+                        <h5>Classic 480i </h5>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <h4>₹50,999</h4>
+                    </div>
+                </div>
+                
+            <div class="pro">
+                <img src="DELL/Inspiron%2016%20laptop.avif" alt="" width="102%">
+                <div class="des">
+                    <p>12th Gen Intel® Core™ i7-1255U,<br>
+                        Windows 11 Home Single Language,<br>
+                        1080p at 30 fps FHD camera Dual-array microphones,<br>
+                        Memory: 16GB, Hard Drive: 512 GB
+                    </p>
+                    <h4>Included:</h4>
+                    <p>Microsoft Office Home and Student 2021,<br>McAfee® Multi Device Security 15-month subscription
+                    </p>
+                    <hr style="width:50%;text-align:left;margin-left:0;margin-bottom:10px;margin-top: 10px;">
+                    <h3>Click below to Explore <br> DELL Products.</h3>
+                    <a href="dell.html"><i class="fa-solid fa-up-right-from-square"></i></a>
+                    </div>
+                    <div class="star">
+                        <span>DELL</span>
+                        <h5>Inspiron 16 Laptop </h5>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <h4>₹88,999</h4>
+                    </div>
+            </div>
+                
+                <div class="pro">
+                <img src="SAMSUNG/Galaxy%20S23+.avif" alt="" width="68%">
+                <div class="des">
+                    <p>Screen Size: 6.1 inches,<br>
+                        Resolution: 1080 x 2340 pixels,<br>
+                        Battery: 4,700mAh (typical),<br>
+                        Build: Gorilla Glass Victus 2,<br>
+                        Rear Camera: 50MP Wide-angle, 10MP Telephoto, 12MP Ultrawide<br>
+                        Selfie Camera: 12MP,<br><br>
+                        25W fast wired charging speeds,<br> and 15W wireless charging<br>
+                    <hr style="width:50%;text-align:left;margin-left:0;margin-bottom:10px;margin-top: 10px;">
+                    <h3>Click below to Explore <br> SAMSUNG Products.</h3>
+                    <a href="samsung.html"><i class="fa-solid fa-up-right-from-square"></i></a>
+                    </div>
+                    <div class="star">
+                        <span>SAMSUNG</span>
+                        <h5>Galaxy S23+</h5>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <h4>₹70,999</h4>
+                    </div>
+            </div>
+                
+            </div>
+    </section>
+
+
+
+.section-p1{
+    padding: 40px 80px;
+    font-family: Gilroy,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#product1{
+    text-align: center;
+}
+#product1 .pro-container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    flex-wrap: wrap;
+}
+#product1 .pro{
+    width: 24%;
+    min-width: 250px;
+    padding: 10px 12px;
+    border: 2px solid #2e3f5b;
+    border-radius: 18px;
+    margin: 15px 0;
+    cursor: pointer;
+    box-shadow: 20px 20px 30px rgba(0,0,0,0.02);
+    transition: 0.2s ease;
+    position: relative;
+}
+#product1 .pro:hover{
+    box-shadow: 20px 20px 30px rgba(0,0,0,0.6);
+}
+#product1 .pro .img{
+    border-radius: 20px;
+}
+#product1 .pro .des{
+    text-align: start;
+    padding: 10px 0;
+}
+#product1 .pro .star span{
+    color: #606063;
+    font-size: 16px;
+}
+#product1 .pro .star h5{
+    padding-top: 7px;
+    color: #1a1a1a;
+    font-size: 17px;
+    padding-bottom: 10px;
+    font-family: Gilroy,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#product1 .pro .star i{
+    font-size: 12px;
+    color: rgb(243,181,25);
+}
+#product1 .pro .star h4{
+    padding-top: 7px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #2F56A6;
+    font-family: Gilroy,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#product1 h2{
+    font-size: 35px;
+    font-family: Gilroy,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#product1 p{
+    font-size: 20px;
+    font-family: Gilroy,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#product1 .pro-container .pro .des{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #cecac6;
+    padding: 0 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    transform: scale(0);
+    transition: 0;
+    border-radius: 10px;
+    visibility: hidden;
+}
+#product1 .pro-container .pro:hover .des{
+    transform: scale(1);
+    visibility: visible;
+}
+
+#product1 .pro-container .pro .des h5+p{
+    color: #1a1a1a;
+    font-size: 12px;
+    font-family: Gilroy,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#product1 .pro-container .pro .des h4{
+    color: #1a1a1a;
+    font-size: 16px;
+    font-family: Gilroy,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#product1 .pro-container .pro .des p{
+    color: #1a1a1a;
+    font-size: 16px;
+    font-family: Gilroy,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#product1 .pro-container .pro .des h3{
+    font-size: 15px;
+    font-family: Gilroy,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
